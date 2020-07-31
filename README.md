@@ -1,34 +1,20 @@
 ### Gangadhar Bhuvan 👋👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@gangadharbhuvan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GangadharBhuvan)](https://twitter.com/GangadharBhuvan) [![Linkedin Badge](https://img.shields.io/badge/-gangadharbhuvan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gangadharbhuvan/)](https://www.linkedin.com/in/gangadharbhuvan/) [![Medium Badge](https://img.shields.io/badge/-@gangadharbhuvan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@gangadharbhuvan1)](https://medium.com/@gangadharbhuvan1)
-[![GitHub followers](https://img.shields.io/github/followers/Gangadharbhuvan?label=Follow&style=social)](https://github.com/Gangadharbhuvan?tab=follow)
-
-
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-Tech. I'm a Web Developer, currently working on ML,Data Science, DSA  ....
 - ⚡ Fun fact: ... I Love that Green boxes to get more darker 😄
 
 
-##### Languages I have used
+##### Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+
 
 
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
-
-
-
-
+<img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
 
 
 <details open>
@@ -54,5 +40,3 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-T
     <img align="left" alt="Gangadhar Bhuvan's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 </details>
-
-<!--
