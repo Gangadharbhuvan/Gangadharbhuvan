@@ -22,7 +22,7 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-T
 <summary><b> know more about me </b></summary>
 <br /><br />
 <ul>
-<li>Social Media</li>
+<li>Profile</li>
 </ul>
  <a href="https://twitter.com/GangadharBhuvan" title='Twitter'>
     <img align="left" alt="Gangadhar Bhuvan | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
