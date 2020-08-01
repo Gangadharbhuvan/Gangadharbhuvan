@@ -40,4 +40,9 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-T
 <a href="https://leetcode.com/gangadharbhuvan/" title='Leetcode'>
     <img align="left" alt="Gangadhar Bhuvan's Leetcode" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+ <a href="https://www.kaggle.com/gangadharbhuvan" title='Kaggle'>
+ <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="64" height="64"
+viewBox="0 0 172 172"
+style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#8ad6ff"><path d="M55.63965,21.5c-1.25774,0 -1.88965,0.62652 -1.88965,1.88965v125.19971c0,1.25775 0.62653,1.88965 1.88965,1.88965h12.34571c1.25774,0 1.90014,-0.62653 1.90014,-1.88965v-25.99316l9.72119,-9.25928l28.15576,35.81933c0.76325,0.88688 1.64526,1.34375 2.66651,1.34375h17.04883c0.89225,0 1.39859,-0.25573 1.52222,-0.76636l-0.35693,-1.93164l-37.14209,-46.15991l35.61987,-34.46509c0.66112,-0.688 0.43025,-2.677 -1.35425,-2.677h-17.63672c-0.89226,0 -1.78475,0.462 -2.677,1.35425l-35.57788,36.13428v-78.59887c0,-1.26313 -0.62653,-1.88965 -1.88965,-1.88965z"></path></g></g></svg>
 </details>
