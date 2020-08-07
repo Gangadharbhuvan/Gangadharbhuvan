@@ -1,7 +1,7 @@
 ### Gangadhar Bhuvan 👋👨‍💻
 
-I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-Tech. I'm a Web Developer, currently working on ML,Data Science, DSA  ....
-- ⚡ Fun fact: ... I Love that Green boxes to get more darker every day 😄
+I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-Tech. I'm a Web Developer, currently working on ML,Data Science, Web Development, and DSA  ....
+- ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄
 
 
 ##### Programming Languages
