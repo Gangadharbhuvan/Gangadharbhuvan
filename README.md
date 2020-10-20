@@ -9,10 +9,9 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-T
 <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
 
 
-
 ##### Some of the technologies I have worked with
 
-<img src="https://img.icons8.com/color/48/000000/git.png"/>  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>  <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>  <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>  
+<img src="https://img.icons8.com/color/48/000000/git.png"/>    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>    <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>  <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>    
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
