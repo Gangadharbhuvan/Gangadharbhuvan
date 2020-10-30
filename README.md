@@ -2,6 +2,10 @@
 
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-Tech. I'm a Web Developer, currently working on ML,Data Science, Web Development, and DSA  ....
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄
+- 🔭 I’m currently working on [#365DaysofCode](https://twitter.com/GangadharBhuvan)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gangadharbhuvan" alt="gangadharbhuvan" /> </p>
+
 
 
 ##### Programming Languages
@@ -11,10 +15,11 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing B-T
 
 ##### Some of the technologies I have worked with
 
-<img src="https://img.icons8.com/color/48/000000/git.png"/>    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>    <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>  <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>    
+<img src="https://img.icons8.com/color/48/000000/git.png"/>    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>    <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png"/>    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>        <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>  <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>    
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 
 
 <details open>
