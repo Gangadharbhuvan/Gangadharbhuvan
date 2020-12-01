@@ -1,6 +1,6 @@
 ### Gangadhar Bhuvan 👋👨‍💻
 
-I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B-tech - CSE. I'm a Web Developer, currently working on ML,Data Science, Web Development, Cloud Computing and DSA  ....
+I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B-tech - CSE. I'm a Web Developer, currently working on ML,Data Science, Web Development, Cloud and DSA  ....
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄
 - 🔭 I’m currently working on [#365DaysofCode](https://twitter.com/GangadharBhuvan)
 
@@ -23,7 +23,7 @@ I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Fin
 
 
 <details open>
-<summary><b> know more about me </b></summary>
+<summary><b> know more </b></summary>
 <br /><br />
 <ul>
 <li>Profile</li>
