@@ -2,7 +2,7 @@
 
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B-tech - CSE. I'm a Web Developer, currently working on Machine Learning Intern.
 Currently Learning - Data Science, Web Development, Cloud ....
-- ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄
+- ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄 to contribute. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangadharbhuvan" alt="gangadharbhuvan" /> </p>
