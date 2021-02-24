@@ -1,6 +1,6 @@
 ### Gangadhar Bhuvan 👋👨‍💻
 
-I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B-tech - CSE. I'm a Web Developer, currently working on Machine Learning Intern.
+I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B.Tech - CSE. I'm a Web Developer, currently working as a Machine Learning Intern.
 Currently Learning - Data Science, Web Development, Cloud ....
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄 to contribute. 
 
