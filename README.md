@@ -2,6 +2,8 @@
 
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B.Tech - CSE. I'm a Web Developer, currently working as a Machine Learning Intern.
 Currently Learning - Data Science, Web Development, Cloud ....
+
+- 💻 I'm currently working as Machine Learning Engineer Intern at a Startup.
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄 to contribute. 
 
 
@@ -17,10 +19,18 @@ Currently Learning - Data Science, Web Development, Cloud ....
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>    
 
+ <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />    <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23404d59.svg?&style=for-the-badge"/>    <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>    <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>    <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>         
 
 ##### Some of the technologies I have worked with
 
-<img src="https://img.icons8.com/color/48/000000/git.png"/>    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>    <img src="https://img.icons8.com/color/50/000000/tableau-software.png"/>    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>        <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>    <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>    
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>    
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>    
+<img src="https://img.icons8.com/color/50/000000/tableau-software.png"/>    
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>        
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>    
+<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
