@@ -10,7 +10,7 @@ Currently Learning - Data Science, Web Development, Cloud ....
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gangadharbhuvan" alt="gangadharbhuvan" /> </p>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Gangadharbhuvan)
+
 
 
 ##### Tech-Stack I have worked with
