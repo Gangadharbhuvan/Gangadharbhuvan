@@ -1,4 +1,4 @@
-### Gangadhar Bhuvan 👋👨‍💻
+### <h2 align="center"> Gangadhar Bhuvan 👋👨‍💻 </h2> Gangadhar Bhuvan 👋👨‍💻
 
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B.Tech - CSE. I'm a Web Developer, currently working as a Machine Learning Intern.
 Currently Learning - Data Science, Web Development, Cloud ....
@@ -29,11 +29,8 @@ Currently Learning - Data Science, Web Development, Cloud ....
 
 <hr>
 
-<details open>
-<summary><b> know more </b></summary>
-<br /><br />
 <ul>
-<li>Profile</li>
+<h2 align="center"> Profile </h2>
 </ul>
  <a href="https://twitter.com/GangadharBhuvan" title='Twitter'>
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> 
@@ -62,4 +59,4 @@ Currently Learning - Data Science, Web Development, Cloud ....
  <a href="https://public.tableau.com/profile/gangadharbhuvan#!/" title='Tableau'>
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23FF4500.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
  </a>
-</details>
+
