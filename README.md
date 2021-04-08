@@ -3,7 +3,7 @@
 I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University pursuing Final year B.Tech - CSE. Currently working as a Machine Learning Intern.
 Previously worked as a Web Developer
 
-Currently Learning - Data Science, Web Development, Cloud computing....
+Currently Learning - Data Science, Deep Learning, Web Development, Cloud computing....
 
 - 💻 I'm currently working as Machine Learning Engineer Intern at a Startup.
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄 to contribute. 
