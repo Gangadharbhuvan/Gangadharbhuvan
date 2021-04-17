@@ -10,6 +10,7 @@ Currently Learning - Data Science, Deep Learning, Web Development, Cloud computi
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
   - Python pip package [Here](https://github.com/Gangadharbhuvan/bhuvan_probability)
   - ML with Twitter API - Sentiment Analysis [Here](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization)
+  - Flask Face Recognition web app [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask)
 - ⚡ Fun fact: ... I Love that Green boxes to get darker every day 😄 to contribute. 
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gangadharbhuvan&theme=dark)](https://github.com/gangadharbhuvan/github-readme-streak-stats)
