@@ -6,7 +6,7 @@ Previously worked as a Web Developer
 Currently Learning - Data Science, Deep Learning, Web Development, Cloud computing....
 
 - 💻 I'm currently working as Machine Learning Engineer Intern at a Startup.
-- Currently working on Machine Learning Projects 
+- Currently working on Machine Learning and Deep Learning Projects 
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
   - ML with Twitter API - Sentiment Analysis [Here](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization)
   - Flask Face Recognition web app [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask)
