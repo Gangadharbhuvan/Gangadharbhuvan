@@ -32,7 +32,7 @@ Currently Learning - Data Science, Deep Learning, Web Development, Cloud computi
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=Gangadharbhuvan&&show_icons=true&title_color=ffffff&&count_private=true&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <hr>
 
