@@ -12,6 +12,7 @@ Currently Learning - Data Science, Deep Learning, Web Development, Cloud computi
 - 💻 I'm currently looking for a job in Data Science field, worked as Machine Learning Engineer Intern at a Startup.
 - Currently working on Machine Learning and Deep Learning Projects with Cloud technologies.
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
+  - Check out AWS Sagemaker Deep Learning Project [Here](https://github.com/Gangadharbhuvan/Traffic_sign_Classification_with_Deep_Learning_using_AWS-Sagemaker)
   - ML with Twitter API - Sentiment Analysis [Here](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization)
   - Flask Face Recognition web app [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/Flask%20Applications/Face%20%26%20Gender%20Recognition%20web%20app%20using%20ML%20and%20Opencv%20in%20Flask)
   - Human Pose Detection/Estimation [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects/tree/master/OpenCV%20Projects/Human_Pose_Estimation_using_OpenCV)
