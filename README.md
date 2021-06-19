@@ -4,13 +4,13 @@
 
 ![Here](https://github.com/Gangadharbhuvan/Gangadharbhuvan.github.io/blob/main/images/gallery/fulls/Portfolio%20Website.png)
 
-I am Gangadhar Bhuvan, Student at 👨‍💻 Presidency University, Bangalore, completed B.Tech - CSE. Currently looking for a Job, Worked as a Machine Learning Intern.
+I am Gangadhar Bhuvan, completed B.Tech - CSE. Currently looking for a Full time role job, Worked as a Machine Learning Intern.
 Previously worked as a Web Developer.
 
 Currently Learning - Data Science, Deep Learning, Web Development, Cloud computing....
 
 - 💻 I'm currently looking for a job in Data Science field, worked as Machine Learning Engineer Intern at a Startup.
-- Currently working on Machine Learning and Deep Learning Projects with Cloud technologies.
+- Currently working on Machine Learning and Deep Learning Projects with Cloud technologies for Storing and Deployment.
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
   - Check out AWS Sagemaker Deep Learning Project [Here](https://github.com/Gangadharbhuvan/Traffic_sign_Classification_with_Deep_Learning_using_AWS-Sagemaker)
   - ML with Twitter API - Sentiment Analysis [Here](https://github.com/Gangadharbhuvan/Machine-Learning-for-Twitter-API-Map-Visualization)
