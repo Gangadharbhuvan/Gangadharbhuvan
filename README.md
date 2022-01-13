@@ -4,12 +4,12 @@
 
 ![Here](https://github.com/Gangadharbhuvan/Gangadharbhuvan.github.io/blob/main/images/gallery/fulls/portfolio_website.png)
 
-I am Gangadhar Bhuvan, completed B.Tech - CSE. Worked as a Machine Learning Intern.
-Previously worked as a Web Developer.
+I am Gangadhar Bhuvan, completed B.Tech - CSE. Working as a Data Scientist,
+Previously worked as a Machine Learning Intern, Web Developer.
 
 Currently Learning - Data Science, Deep Learning, Web Development, Cloud computing....
 
-- 💻 I'm currently looking for a job in Data Science field, worked as Machine Learning Engineer Intern at a Startup.
+- 💻 I'm currently working in Data Science field, worked as Machine Learning Engineer Intern at a Startup.
 - Currently working on Machine Learning and Deep Learning Projects with Cloud technologies for Storing and Deployment.
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
   - Check out AWS Sagemaker Deep Learning Project [Here](https://github.com/Gangadharbhuvan/Traffic_sign_Classification_with_Deep_Learning_using_AWS-Sagemaker)
@@ -59,9 +59,3 @@ Currently Learning - Data Science, Deep Learning, Web Development, Cloud computi
  <a href="https://www.kaggle.com/gangadharbhuvan" title='Kaggle'>
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
  </a>
- 
- <a href="https://public.tableau.com/profile/gangadharbhuvan#!/" title='Tableau'>
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23FF4500.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
- </a>
-
- 
