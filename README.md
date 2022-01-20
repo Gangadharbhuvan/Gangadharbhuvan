@@ -52,7 +52,7 @@ Currently Learning - Data Science, Deep Learning, Web Development, Cloud computi
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@gangadharbhuvan1" title='Medium'>
+<a href="https://medium.com/@gangadharbhuvan" title='Medium'>
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
