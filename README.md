@@ -5,11 +5,11 @@
 ![Here](https://github.com/Gangadharbhuvan/Gangadharbhuvan.github.io/blob/main/images/gallery/fulls/portfolio_website.png)
 
 I am Gangadhar Bhuvan, completed B.Tech - CSE. Working as a Data Scientist,
-Previously worked as a Machine Learning Intern, Web Developer.
+Previously worked as a Machine Learning Intern, & Web Developer.
 
-Currently Learning - Data Science, Deep Learning, Web Development, Cloud computing....
+Currently Learning - Data Science,  Cloud computing....
 
-- 💻 I'm currently working in Data Science field, worked as Machine Learning Engineer Intern at a Startup.
+- 💻 I'm currently working as a Data Scientist, worked as Machine Learning Engineer Intern at a Startup.
 - Currently working on Machine Learning and Deep Learning Projects with Cloud technologies for Storing and Deployment.
   - Checkout few projects [Here](https://github.com/Gangadharbhuvan/Machine_Learning-Projects)
   - Check out AWS Sagemaker Deep Learning Project [Here](https://github.com/Gangadharbhuvan/Traffic_sign_Classification_with_Deep_Learning_using_AWS-Sagemaker)
