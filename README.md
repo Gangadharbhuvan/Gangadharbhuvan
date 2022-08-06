@@ -4,7 +4,7 @@
 
 ![Here](https://github.com/Gangadharbhuvan/Gangadharbhuvan.github.io/blob/main/images/gallery/fulls/portfolio_website.png)
 
-I am Gangadhar Bhuvan, B. Tech final year
+I am Gangadhar Bhuvan, currently working as a Data Scientist, 
 Previously worked as a Machine Learning Intern, & Web Developer.
 
 Currently Learning - Data Science,  Cloud computing....
