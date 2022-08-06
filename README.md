@@ -4,7 +4,7 @@
 
 ![Here](https://github.com/Gangadharbhuvan/Gangadharbhuvan.github.io/blob/main/images/gallery/fulls/portfolio_website.png)
 
-I am Gangadhar Bhuvan, completed B.Tech - CSE. Working as a Data Scientist,
+I am Gangadhar Bhuvan, B. Tech final year
 Previously worked as a Machine Learning Intern, & Web Developer.
 
 Currently Learning - Data Science,  Cloud computing....
