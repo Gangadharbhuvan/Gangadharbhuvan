@@ -59,3 +59,6 @@ Currently Learning - Data Science,  Cloud computing....
  <a href="https://www.kaggle.com/gangadharbhuvan" title='Kaggle'>
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
  </a>
+
+
+[![@gangadharbhuvan's Holopin board](https://holopin.io/api/user/board?user=gangadharbhuvan)](https://holopin.io/@gangadharbhuvan)
